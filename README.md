@@ -1,2 +1,27 @@
-# Invoice-Generator-With-Python-and-HTML-v1
-Automated Invoice Generator built with Python and Jinja2.  This project allows users to input client and product data, then automatically generates a clean, styled invoice in HTML format. It demonstrates core programming concepts such as loops, data structures, file handling, and templating.
+# 🧾 Automated Invoice Generator
+
+A simple invoice generator built with Python and Jinja2.
+
+This program takes user input (client name, invoice number, and items) and generates a styled invoice as an HTML file.
+
+---
+
+## 🚀 Features
+
+- Add multiple items dynamically
+- Automatically calculates totals
+- Generates a clean, styled invoice
+- Uses HTML + CSS for design
+- Automatically fills data using Jinja2 templates
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Jinja2
+- HTML & CSS
+
+---
+
+## 📁 Project Structure
